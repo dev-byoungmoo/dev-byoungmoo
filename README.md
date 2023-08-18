@@ -30,7 +30,6 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
 	<p>✨Sever & Cloud✨</p>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
 	<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows10&logoColor=white"/></a>
