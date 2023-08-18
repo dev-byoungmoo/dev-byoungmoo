@@ -18,9 +18,6 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 \____/   \_/   \___/  \___/ \_| \_/ \____/        \_|  |_/ \___/  \___/ 
 </pre>
  
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/spring-E34F26?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
