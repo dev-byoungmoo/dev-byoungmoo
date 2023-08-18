@@ -17,4 +17,5 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 | |_/ /  | |  \ \_/ /| |_| || |\  || |_\ \        | |  | |\ \_/ /\ \_/ /
 \____/   \_/   \___/  \___/ \_| \_/ \____/        \_|  |_/ \___/  \___/ 
 </pre>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
