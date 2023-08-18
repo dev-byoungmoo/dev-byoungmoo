@@ -65,7 +65,13 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)<br/>
+<br><br>
+
+<div align=center>
+	<p>✨Baekjun✨</p>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)<br/>	
+</div>
+
 
 
 
