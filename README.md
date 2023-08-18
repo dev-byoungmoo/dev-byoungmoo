@@ -20,4 +20,6 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
  
 <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+
+
