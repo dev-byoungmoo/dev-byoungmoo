@@ -72,7 +72,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&layout=compact)](https://github.com/dev-byoungmoo/github-readme-stats)
 
 
 
