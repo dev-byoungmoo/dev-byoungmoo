@@ -20,19 +20,24 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨Languages✨</p>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/Openjdk-DC0D15?style=flat-square&logo=openjdk&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Openjdk-DC0D15?style=flat-square&logo=openjdk&logoColor=white"/></a>
+</div>
+
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨Sever & Cloud✨</p>
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
+	<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows10&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a>   
 </div>
 
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows10&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Maven-DC0D15?style=flat-square&logo=apachemaven&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
