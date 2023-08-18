@@ -65,7 +65,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/lbm1419)<br/>
 
 
 
