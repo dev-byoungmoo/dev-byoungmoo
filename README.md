@@ -69,7 +69,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 
 <div align=center>
 	<p>✨Baekjun✨</p>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)<br/>	
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)
 </div>
 
 
