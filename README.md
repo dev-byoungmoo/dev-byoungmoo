@@ -26,6 +26,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows10&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
@@ -35,7 +36,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Openjdk-6CD74A?style=flat-square&logo=openjdk&logoColor=DC0D15"/></a>
+<img src="https://img.shields.io/badge/Openjdk-DC0D15?style=flat-square&logo=openjdk&logoColor=white"/></a>
 
 
 
