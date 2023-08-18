@@ -23,6 +23,14 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Openjdk-DC0D15?style=flat-square&logo=openjdk&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Maven-DC0D15?style=flat-square&logo=apachemaven&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+
+
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows10&logoColor=white"/></a>
@@ -35,8 +43,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Openjdk-DC0D15?style=flat-square&logo=openjdk&logoColor=white"/></a>
+
 
 
 
