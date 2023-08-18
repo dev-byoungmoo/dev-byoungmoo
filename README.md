@@ -21,9 +21,13 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows10&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
 
 
 
