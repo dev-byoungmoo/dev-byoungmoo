@@ -70,7 +70,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbm1419&langs_count=8)](https://github.com/lbm1419/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbm1419&show_icons=true&theme=radical)
 
 
 
