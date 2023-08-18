@@ -70,7 +70,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbm1419&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&show_icons=true&theme=radical)
 
 
 
