@@ -26,7 +26,7 @@ ______ __   __ _____  _   _  _   _  _____         ___  ___ _____  _____
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows10&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache-BDBDBD?style=flat-square&logo=apache&logoColor=22128"/></a>
+<img src="https://img.shields.io/badge/Apache-BDBDBD?style=flat-square&logo=apache&logoColor=D22128"/></a>
 
 
 
