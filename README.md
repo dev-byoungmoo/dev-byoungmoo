@@ -57,7 +57,7 @@
 <br><br>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)
+<img src="https://camo.githubusercontent.com/111b6e88c6d20852b80ed84aabcbc8225336172e241b49d4ca12f4c6d83045c0/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f67656e65726174655f62616467653f626f6a3d6c626d31343139" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/generate_badge?boj=lbm1419" style="max-width: 100%;">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&show_icons=true&theme=radical)
