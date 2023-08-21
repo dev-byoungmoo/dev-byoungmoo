@@ -57,11 +57,11 @@
 <br><br>
 
 <div align="center">
-	<img src="https://camo.githubusercontent.com/111b6e88c6d20852b80ed84aabcbc8225336172e241b49d4ca12f4c6d83045c0/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f67656e65726174655f62616467653f626f6a3d6c626d31343139" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/generate_badge?boj=lbm1419" style="max-width: 100%;">
+	<img src="https://camo.githubusercontent.com/3e61a4e309fe6397a5f6c4c2e35005f6776f9096f46db130de556c8ce80e9160/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6465762d62796f756e676d6f6f2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
 </div>
 
 <div align="center">
-	<img src="https://camo.githubusercontent.com/3e61a4e309fe6397a5f6c4c2e35005f6776f9096f46db130de556c8ce80e9160/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6465762d62796f756e676d6f6f2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
+	<img src="https://camo.githubusercontent.com/111b6e88c6d20852b80ed84aabcbc8225336172e241b49d4ca12f4c6d83045c0/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f67656e65726174655f62616467653f626f6a3d6c626d31343139" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/generate_badge?boj=lbm1419" style="max-width: 100%;">
 </div>
 
 <div align="center">
