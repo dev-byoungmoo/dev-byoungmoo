@@ -3,7 +3,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?
-	type=Rect&
+	type=rect&
 	color=auto&
 	height=300&
 	section=header&
