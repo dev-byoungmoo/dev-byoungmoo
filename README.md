@@ -57,13 +57,13 @@
 <br><br>
 
 
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)
 
 
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&show_icons=true&theme=radical)
 
 
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&langs_count=8)](https://github.com/dev-byoungmoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&langs_count=8)](https://github.com/dev-byoungmoo/github-readme-stats)
 
 
 
