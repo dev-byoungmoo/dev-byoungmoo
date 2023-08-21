@@ -72,8 +72,7 @@
 
 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-byoungmoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                 
+<img src="https://camo.githubusercontent.com/71939171694c92d5df8f81e587a720b82d9e6693a2faf8010c8f0cc1f141d15c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6465762d62796f756e676d6f6f266c616e67735f636f756e743d38" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&amp;langs_count=8" style="max-width: 100%;">     
 
 
 
