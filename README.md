@@ -58,15 +58,14 @@
 
 <div align="center">
 	<img src="https://camo.githubusercontent.com/111b6e88c6d20852b80ed84aabcbc8225336172e241b49d4ca12f4c6d83045c0/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f67656e65726174655f62616467653f626f6a3d6c626d31343139" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/generate_badge?boj=lbm1419" style="max-width: 100%;">
+</div>
 
+<div align="center">
+	<img src="https://camo.githubusercontent.com/3e61a4e309fe6397a5f6c4c2e35005f6776f9096f46db130de556c8ce80e9160/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6465762d62796f756e676d6f6f2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
+</div>
 
-<img src="https://camo.githubusercontent.com/3e61a4e309fe6397a5f6c4c2e35005f6776f9096f46db130de556c8ce80e9160/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6465762d62796f756e676d6f6f2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
-
-
-<img src="https://camo.githubusercontent.com/71939171694c92d5df8f81e587a720b82d9e6693a2faf8010c8f0cc1f141d15c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6465762d62796f756e676d6f6f266c616e67735f636f756e743d38" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&amp;langs_count=8" style="max-width: 100%;">
-
-
-
+<div align="center">
+	<img src="https://camo.githubusercontent.com/71939171694c92d5df8f81e587a720b82d9e6693a2faf8010c8f0cc1f141d15c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6465762d62796f756e676d6f6f266c616e67735f636f756e743d38" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&amp;langs_count=8" style="max-width: 100%;">
 </div>
 
 
