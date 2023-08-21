@@ -2,7 +2,7 @@
    <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-woong&count_bg=%234778BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Viewers&edge_flat=true"/></a>-->
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
