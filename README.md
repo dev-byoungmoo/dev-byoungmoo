@@ -63,7 +63,7 @@
 <img src="https://camo.githubusercontent.com/3e61a4e309fe6397a5f6c4c2e35005f6776f9096f46db130de556c8ce80e9160/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6465762d62796f756e676d6f6f2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&langs_count=8)](https://github.com/dev-byoungmoo/github-readme-stats)
+<img src="https://camo.githubusercontent.com/71939171694c92d5df8f81e587a720b82d9e6693a2faf8010c8f0cc1f141d15c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6465762d62796f756e676d6f6f266c616e67735f636f756e743d38" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&amp;langs_count=8" style="max-width: 100%;">
 
 
 
