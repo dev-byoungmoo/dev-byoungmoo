@@ -3,9 +3,7 @@
 </div>
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Wellcome&
-		desc=I am Byoungmoo who wants to become a professional backend developer.
-		&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Wellcome&desc=I am Byoungmoo who wants to become a professional backend developer.&fontSize=90" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
