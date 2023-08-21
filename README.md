@@ -56,15 +56,15 @@
 
 <br><br>
 
-<div align=center>
+
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lbm1419)](https://solved.ac/lbm1419)
-</div>
-<div align=center>
+
+
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-byoungmoo&show_icons=true&theme=radical)
-</div>
-<div align=center>
+
+
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-byoungmoo&langs_count=8)](https://github.com/dev-byoungmoo/github-readme-stats)
-</div>
+
 
 
 
